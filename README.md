@@ -1,4 +1,4 @@
-# ML Studio Environment Project
+# ML Studio Project
 
 ## Overview
 This project utilizes Google AI Studio and Vibe coding to create an interactive ML studio environment. Users can upload various document formats, tokenized through a Natural Language Processing (NLP) pipeline, and can ask questions about the content of these documents.
