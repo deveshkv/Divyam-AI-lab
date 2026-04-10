@@ -1,12 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/deveshkv/Divyam-AI-lab/refs/heads/main/Screenshot%202026-04-10%20111011.png" />
-</div>
 
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: 
+<div align="center">
+<img width="1200" height="475" alt="GHBanne2r" src="https://raw.githubusercontent.com/deveshkv/Divyam-AI-lab/refs/heads/main/Screenshot%202026-04-10%20111011.png" />
+</div>
 
 ## Run Locally
 
