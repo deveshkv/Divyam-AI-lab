@@ -1,20 +1,20 @@
-# ML Studio Project
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-## Overview
-This project utilizes Google AI Studio and Vibe coding to create an interactive ML studio environment. Users can upload various document formats, tokenized through a Natural Language Processing (NLP) pipeline, and can ask questions about the content of these documents.
+# Run and deploy your AI Studio app
 
-## Features
-- **File Upload**: Users can upload files in PDF, TXT, or Word formats.
-- **NLP Tokenization**: The project processes and tokenizes the content of uploaded documents using an efficient NLP pipeline.
-- **Question Answering**: Users can ask questions related to the uploaded documents and receive responses based on the content.
-- **User-Friendly Interface**: Intuitive UI for an enhanced user experience.
+This contains everything you need to run your app locally.
 
-## Setup Instructions
-1. **Prerequisites**:
-   - Ensure you have Python 3.7 or higher installed.
-   - Install Google AI Studio account and set up your workspace.
+View your app in AI Studio: https://ai.studio/apps/a44a5782-332d-473d-9e13-feac2446015c
 
-2. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/deveshkv/ml-studio-environment.git
-   cd ml-studio-environment
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

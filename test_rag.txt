@@ -1,0 +1,5 @@
+This is a test document for the RAG pipeline.
+It contains information about artificial intelligence and machine learning.
+Machine learning is a subset of AI that focuses on building systems that learn from data.
+RAG stands for Retrieval-Augmented Generation, which combines retrieval with generative models.
+The goal of this test is to ensure that the pipeline can extract text, generate embeddings, and answer questions.

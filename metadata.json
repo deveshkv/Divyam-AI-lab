@@ -1,0 +1,5 @@
+{
+  "name": "ML Studio",
+  "description": "Auto RAG pipeline with real-time observability dashboard for document-based AI.",
+  "requestFramePermissions": []
+}
